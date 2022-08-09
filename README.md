@@ -1,6 +1,6 @@
-# JavaHW0805part2-fix
+# HW 0805 part2-fix
 
-# HW 0805 part2
+由於git出問題，所以我建立新的 repo 重新推上去
 
 # 這個專案需要接資料庫執行！
 ## 請在本地建立 DB 為 applestore
