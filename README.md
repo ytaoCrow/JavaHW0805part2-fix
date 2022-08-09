@@ -29,7 +29,7 @@ https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggem
 * application.properties設定
 ```
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.url=jdbc:mysql://localhost:3306/cafe?serverTimezone=Asia/Taipei&characterEncoding=utf-8
+spring.datasource.url=jdbc:mysql://localhost:3306/AppleStore?serverTimezone=Asia/Taipei&characterEncoding=utf-8
 spring.datasource.username="Your DB name"
 spring.datasource.password="Your DB password"
 
