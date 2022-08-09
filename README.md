@@ -7,7 +7,7 @@
 ```
 CREATE DATABASE  applestore
 ```
-# 並且使用 API Tester 測試 API
+# 請使用 API Tester 測試 API
 
 連結：
 https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=zh-TW
