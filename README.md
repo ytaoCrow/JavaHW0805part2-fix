@@ -13,11 +13,11 @@ CREATE DATABASE  applestore
 https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=zh-TW
 
 加入擴充功能，並打開 API Tester
-左下角 Import AppleStore.json 就能 Call API
+左下角 Import AppleStore.json 就能 call API
 
 ![](https://i.imgur.com/tdC11GI.png)
 
-* DB : MySql
+* DB : MySQL
 ```
 <dependency>
             <groupId>mysql</groupId>
