@@ -113,5 +113,6 @@ DELETE http://localhost:8080/meal/1
     1. Meal 改成 Product，並新增 Quota 名額的欄位，給予判斷式，如果名額為0，則事件處理，跳出訊息：「沒有名額」。
     2. 新增 Order 與 Order Item ，新增 Order 的 CRUD 功能並將  Order Item 裡面放入所有的 Products 去計算所有商品的金額 = OrderTotal。
     3. 新增 UserName 的欄位與功能
+    4. 新增 select User 功能
 
 * Thanks for codeReview
